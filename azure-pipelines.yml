@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'Azure Pipelines'
+  vmImage: 'windows-latest'
 
 variables:
   buildConfiguration: 'Release'
